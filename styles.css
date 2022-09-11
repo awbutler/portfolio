@@ -1,0 +1,47 @@
+.aboutmeimage {
+    width: auto; 
+    height: 300px;
+    margin-right: 15px;
+}
+
+body {
+    background: rgb(29,178,253);
+background: radial-gradient(circle, rgba(29,178,253,1) 0%, rgba(69,111,252,1) 100%);
+color: white;
+font-family: 'Montserrat', sans-serif;
+}
+
+.nav-pills a {
+    color: #91e2ff;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #91e2ff;
+    color: #0953ad;
+}
+
+.card {
+    color: black;
+}
+
+.about {
+    max-width: 720px;
+    margin: 0 auto;
+}
+
+.header a {
+    color: white;
+}
+
+.header {
+    justify-content: space-between;
+}
+
+.header .btn-outline-primary {
+    border-color: #fff;
+}
+
+.header .header-links {
+    flex-direction: column;
+    justify-content: right;
+}
